@@ -1,3 +1,6 @@
+# _config.yml
+title: Ray Lam – Backend Developer
+email: lamwaiman1988@gmail.com
+description: "Backend developer with 12+ years of experience in fintech and telco, focused on secure, scalable APIs and system integration."
 theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+
