@@ -6,3 +6,8 @@ html {
     font-size: 1.2em;
     line-height: 1.6;
   }
+
+.resized-photo {
+  width: 300px; /* or any desired size */
+  height: auto; /* Maintain aspect ratio */
+}
