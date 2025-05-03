@@ -17,4 +17,8 @@ The tool was written to help a German to find address registration (German need 
 
 [Link](https://github.com/waimanlam2019/AnmeldungBot)
 
-* Demo 3 - Planned to include another repo
+* PDF file splitter demo with Java FX ( apply ForkJoinPool )
+
+A demo program I created with help of ChatGPT to demo ForkJoinPool concurrency. I demanded ChatGPT to create a tool to split a PDF file page by page with JavaFX UI + ForkJoinPool technique. The first version works and I proposed further improvement that its memory management can be improved by extracting the line which load the pdf into the memory from threads.
+
+[Link](https://github.com/waimanlam2019/pdfsplit-forkjoinpool) 
