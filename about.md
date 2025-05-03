@@ -8,9 +8,7 @@ title: Resume
 ## Personal Particulars
 - **Name**: Wai Man Lam  
 - **Preferred Name**: Ray  
-- **Date of Birth**: 19 Jul 1988  
 - **Citizenship**: Hong Kong  
-- **Marital Status**: Single  
 
 ## Executive Summary
 Results-driven software engineer with 12+ years in backend development, specializing in scalable Java solutions. With a track record of leading secure, high-uptime deployments and mentoring high-performing teams.
@@ -18,6 +16,7 @@ Results-driven software engineer with 12+ years in backend development, speciali
 ## Working Experience
 
 ### Developer, Finance Company, Hong Kong  
+**Jul 2024 - Present** *Self-Employed, E-Commercial Business*
 **Dec 2022 – Jun 2024** *(Previously as Senior System Analyst via Recruitment Agency)*  
 - Managed backend production releases, ensuring 100% uptime during deployments.  
 - Identified and fixed system vulnerabilities (CheckMarx).  
@@ -63,12 +62,12 @@ Results-driven software engineer with 12+ years in backend development, speciali
 - **Mandarin**: Conversational  
 
 ## Technical Skills
-- **Languages**: Java, Python, JavaScript, COBOL, C  
-- **Frameworks**: Spring Boot, Spring MVC, J2EE, Hibernate  
+- **Languages**: Java, Python, JavaScript, COBOL, C, Shell Scriptin, PL/SQL, XML, YAMP, JSON, Groovy
+- **Frameworks**: Spring Boot, Spring MVC, Spring Security, Apache Common, Log4j, Logback, J2EE, Hibernate  
 - **Web Development**: RESTful APIs, JWT, Webhook, HTML, CSS, JSP, Thymeleaf  
-- **Cloud & DevOps**: AWS (basic), Docker, Jenkins, Git, SVN  
-- **Testing**: JUnit, Mockito, Postman  
-- **Databases**: Oracle, MySQL, SQL Server  
+- **Cloud & DevOps**: AWS (basic), Docker, Podman, Jenkins, Git, SVN, Bitbucket, SonarQube, 
+- **Testing**: JUnit, Mockito, Postman, Cucumber, Selenium  
+- **Databases**: Oracle, MySQL, SQL Server, JDBC  
 - **Tools**: Maven, Gradle, Control-M, CheckMarx  
 - **Platforms**: Linux (RHEL, Ubuntu, AIX), Windows, OpenVMS (Mainframe)  
 
