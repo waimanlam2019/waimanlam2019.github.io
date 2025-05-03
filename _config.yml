@@ -21,6 +21,7 @@
 title: Ray Lam - Software Engineer
 description: Personal portfolio and resume of Wai Man Lam (Ray), a backend development specialist with over 12 years of experience.
 email: lamwaiman1988@gmail.com
+whatsapp: +852 57190470
 baseurl: "" # Leave empty for local development
 url: "http://localhost:4000" # Change to your domain later
 markdown: kramdown
