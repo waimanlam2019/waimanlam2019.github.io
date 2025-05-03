@@ -17,6 +17,7 @@ Results-driven software engineer with 12+ years in backend development, speciali
 
 ### Developer, Finance Company, Hong Kong  
 **Jul 2024 - Feb 2024** *Self-Employed, E-Commercial Business*
+
 **Dec 2022 – Jun 2024** *(Previously as Senior System Analyst via Recruitment Agency)*  
 - Managed backend production releases, ensuring 100% uptime during deployments.  
 - Identified and fixed system vulnerabilities (CheckMarx).  
