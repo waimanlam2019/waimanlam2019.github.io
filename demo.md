@@ -3,6 +3,12 @@ layout: default
 title: Demo
 ---
 
+* React Personal Portfolio
+
+ This particular website was built with Jekyll ( A static website engine written with Ruby ) loaded with minimalist style template. I tried to create an exact same website with React. I inspected the html elements and css with by the Jekyll website and tried to mimic it. It is hosted on Vercel.
+
+ [Link](https://personalwebsite-gamma-nine.vercel.app/)
+
 * Browser Cache Deleter
 
  This tool was written to have external control deletion over browser cache when we don't trust browser's promise to delete cache after closing the browser. Adopted Strategy pattern to facilitate use with different browsers such as Google Chrome, Vivaldi and different platforms such as Windows and Mac because they store cache in different location.
