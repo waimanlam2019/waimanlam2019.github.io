@@ -11,6 +11,6 @@ Hi, I'm Ray (Wai Man Lam), a results-driven software engineer with over 12 years
 
 ![Ray Photo](/assets/images/Ray_Photo.jpeg){: .resized-photo}
 
-Explore my [resume](/about) to learn more about my skills and experience!
+Explore my [Resume](/about) to learn more about my skills and experience!
 
 Github project [Demo](/demo)
