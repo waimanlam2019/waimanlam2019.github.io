@@ -3,6 +3,12 @@ layout: default
 title: Demo
 ---
 
+* AI-Powered Job Matcher
+
+ This Java-based application scrapes job listings from JobsDB using Selenium WebDriver and analyzes them with an AI model running locally via Ollama. The goal is to identify job posts that match a predefined candidate profile. It includes retry logic, regex-based parsing, and is designed with modularity in mind for future integration with a frontend, Docker, and CI/CD.
+
+ [Source](https://github.com/waimanlam2019/AIJobSuggestion)
+
 * React Personal Portfolio
 
  This particular website was built with Jekyll ( A static website engine written with Ruby ) loaded with minimalist style template. I tried to create an exact same website with React. I inspected the html elements and css with by the Jekyll website and tried to mimic it. It is hosted on Vercel.
