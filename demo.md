@@ -11,6 +11,10 @@ title: Demo
 
  ![AI Matcher Result](/assets/images/aimatcherresult.png)
 
+ ![UI Result 1](/assets/images/AIJobMatcherUI-1.png)
+ 
+ ![UI Result 2](/assets/images/AIJobMatcherUI-2.png)
+
  [Source](https://github.com/waimanlam2019/AIJobSuggestion)
 
 # React Personal Portfolio
