@@ -3,9 +3,25 @@ layout: default
 title: Demo
 ---
 
-# AI-Powered Job Matcher
+# AI Job Matcher
 
- This Java Spring Boot application scrapes job listings from job portal using Selenium WebDriver and analyzes them with a local LLM AI model such as Mistral:7B and LLaMA3:8B running locally via [Ollama](https://ollama.com/) as api endpoint. The java program would talk to the local AI via API, provide the candidate profile, job description and ask the AI to decide whether the job is suitable for the candidate to apply. The goal is to identify job posts that match a predefined candidate profile. The program would send an email to the candidate if there is a matching job. It includes stealth selenium setting, retry logic, regex-based parsing, and is designed with modularity in mind for future integration with a frontend, Docker, and CI/CD. Results are stored in Postgresql database to minimize impact to website being scraped.
+## Project Description  
+
+This project consists of a **Java Spring Boot backend** and a **React frontend**.  
+
+- **Backend**  
+  - Scrapes job listings from a job portal using Selenium WebDriver.  
+  - Analyzes jobs with a local LLM AI model (such as **Mistral:7B** or **LLaMA3:8B**) running locally via [Ollama](https://ollama.com/) as an API endpoint.  
+  - Provides the candidate profile and job description to the AI, which decides whether the job is suitable.  
+  - Stores matching results in a **PostgreSQL database** and sends email notifications when relevant jobs are found.  
+  - Includes stealth Selenium settings, retry logic, regex-based parsing, and a modular design for future integration with **Docker** and **CI/CD**.  
+
+- **Frontend**  
+  - Allows users to **trigger job matching on demand**.  
+  - Displays results, including **AI verdicts and models used**.  
+  - Provides UI for managing candidate profile settings.  
+
+The overall goal is to automatically identify job posts that match a predefined candidate profile while keeping scraping activity efficient and respectful to the target website.  
 
  ![AI Matcher Email](/assets/images/aimatcheremail.png)
 
