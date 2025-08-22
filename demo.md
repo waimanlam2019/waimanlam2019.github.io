@@ -23,6 +23,10 @@ This project consists of a **Java Spring Boot backend** and a **React frontend**
 
 The overall goal is to automatically identify job posts that match a predefined candidate profile while keeping scraping activity efficient and respectful to the target website.  
 
+ ![Ollama interactive UI](/assets/images/Ollama_demo.png)
+
+ ![Ollama API access](/assets/images/Ollama_api_demo.png)
+
  ![AI Matcher Email](/assets/images/aimatcheremail.png)
 
  ![AI Matcher Result](/assets/images/aimatcherresult.png)
