@@ -24,18 +24,25 @@ This project consists of a **Java Spring Boot backend** and a **React frontend**
 The overall goal is to automatically identify job posts that match a predefined candidate profile while keeping scraping activity efficient and respectful to the target website.  
 
  ![Ollama interactive UI](/assets/images/Ollama_demo.png)
+ *Demonstration of Ollama interactive UI*
 
  ![Ollama API access](/assets/images/Ollama_api_demo.png)
-
- ![AI Matcher Email](/assets/images/aimatcheremail.png)
+ *Demonstration of Ollama API access*
 
  ![AI Matcher Result](/assets/images/aimatcherresult.png)
+ *Example of a AI job matching result*
 
  ![UI Result 1](/assets/images/AIJobMatcherUI-1.png)
- 
- ![UI Result 2](/assets/images/AIJobMatcherUI-2.png)
+ *Simple frontend UI to view job matching results*
 
- [Source](https://github.com/waimanlam2019/AIJobSuggestion)
+ ![UI Result 2](/assets/images/AIJobMatcherUI-2.png)
+ *Simple frontend UI to view job matching results*
+
+ [Backend Source](https://github.com/waimanlam2019/AIJobMatcher)  
+
+ [Frontend Source](https://github.com/waimanlam2019/simple-job-matching-ui)  
+
+
 
 # React Personal Portfolio
 
