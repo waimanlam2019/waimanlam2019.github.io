@@ -42,6 +42,15 @@ The overall goal is to automatically identify job posts that match a predefined 
 
  [Frontend Source](https://github.com/waimanlam2019/simple-job-matching-ui)  
 
+## Change Log
+ - **2025-08-20** Trigger backend scraping with frontend api call instead of batch job
+ - **2025-08-19** Updated frontend to implement a result filtering with a minimum number of positive vote from AIs
+ - **2025-08-14** Updated backend with multiple LLM models (e.g: llama3.1:8b,mistral:7b,qwen3:8b,phi4-mini:3.8b,gemma3:4b) to get a balanced recommendation
+ - **2025-08-11** Started React frontend development for easier result checking, query backend via REST api
+ - **2025-08-03** Added CI workflow with Github Actions
+ - **2025-07-29** Migrated from plain Java project to a Spring Boot project to allow better configurations, added PostgreSQL database to store job and ai matching results
+ - **2025-07-25** Implemented retry logic for critical code, allowed use of different LLM model with configuration change
+ - **2025-07-22** Project started, established basic job advertisement scraping, integrated Ollama LLM API, able to send email notification for matching jobs
 
 
 # React Personal Portfolio
